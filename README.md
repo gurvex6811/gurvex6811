@@ -105,7 +105,7 @@
     <a href="mailto:sarkarsubhadip604@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://youtube.com/@chillsenpai007?si=pKl-cUqdPrVoLuoT" target="_blank">
+    <a href="http://www.youtube.com/@SUBtechforge" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/ofc_subhadip?igsh=OGp2Nmlrb29iNm8z" target="_blank">
