@@ -1,7 +1,7 @@
 # yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> it's subhadip
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=18+y%2Fo+from+west+bengal;building+cool+stuff+on+the+web;trying+to+make+games+work;sometimes+draw+manga+panels" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=18+y%2Fo+from+India;building+cool+stuff+on+the+web;trying+to+make+games+work;sometimes+draw+manga+panels" alt="Typing SVG" />
 </p>
 
 just another pcmb student who codes instead of studying (jk parents, i study too 📚)
