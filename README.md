@@ -40,6 +40,7 @@ honestly just vibing between projects rn. prepping for boards but also can't sto
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SUB](https://img.shields.io/badge/SUB-FF00FF?style=flat-square&logoColor=white)
 
 **databases:**
 
