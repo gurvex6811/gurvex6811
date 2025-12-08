@@ -76,6 +76,14 @@ check out my [portfolio](https://subhadip-portofolio.netlify.app/) if you want t
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## watch my contributions get eaten lol
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/subhobhai943/subhobhai943/output/snake.svg" alt="Snake animation" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## random stuff about me
 
 - binge watching aot and tokyo revengers when i should be sleeping
