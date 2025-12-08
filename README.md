@@ -1,135 +1,114 @@
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Subhadip (He/Him), 18
+# yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> it's subhadip
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A960FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Game+Developer+%F0%9F%8E%AE;AI+Enthusiast+%F0%9F%A4%96;Manga+Creator+%F0%9F%93%9A;PCMB+Student+%F0%9F%8E%93" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=18+y%2Fo+from+west+bengal;building+cool+stuff+on+the+web;trying+to+make+games+work;sometimes+draw+manga+panels" alt="Typing SVG" />
+</p>
 
-<div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400"/>
-</div>
+just another pcmb student who codes instead of studying (jk parents, i study too 📚)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🚀 About Me
-- 🎓 **Class 12th PCMB Student** from West Bengal, India
-- 💻 **Full-Stack Developer** passionate about web development and AI tools  
-- 🎮 **Game Developer** exploring C#, C++, and mobile game development
-- 📚 **Manga Creator** and anime enthusiast (Attack on Titan, Tokyo Revengers)
-- 🤖 **AI Explorer** experimenting with Perplexity Labs and API integrations
+## what i'm up to
+
+honestly just vibing between projects rn. prepping for boards but also can't stop coding lol
+
+- building random web apps when i should be doing chemistry homework
+- making 3D games that probably won't work on most phones but whatever
+- experimenting with AI stuff (perplexity labs is sick btw)
+- creating manga panels because why not
+- probably breaking my code and fixing it at 1 am
+
+## stuff i know (kinda)
+
+**languages & frameworks:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+**tools i actually use:**
+- react for web stuff (still learning proper state management tho)
+- flask when i need backend
+- gsap for those smooth animations
+- unity/godot for game dev experiments
+- netlify/render because free hosting >>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🛠️ Tech Stack & Skills
+## current projects (that aren't abandoned yet)
 
-**Programming Languages:**
-<div align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</div>
+- **aniverse ai** - web app with ai integration. works pretty well
+- **3D browser game** - optimized for mobile but my phone still lags
+- **meditation site** - smooth animations with gsap, actually proud of this one
+- **code editor** - web-based, nothing fancy
+- **manga stuff** - translating/editing panels with english dialogue
 
-**Tools & Platforms:**
-- 🌐 **Web Development:** React, Flask, GSAP Animations
-- 📱 **Mobile:** Android Development, Game Development
-- 🎨 **Design:** Digital Art, Manga Creation
-- 🤖 **AI Tools:** Perplexity API, AI Chatbots, Image Generation
-- ☁️ **Deployment:** Netlify, Render, Railway
+check out my [portfolio](https://subhadip-portofolio.netlify.app/) if you want to see more
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🎯 Current Focus
-- 📖 Preparing for **Class 12th WBCHSE Board Exams**
-- 🌟 Building my **[Portfolio Website](https://subhadip-portofolio.netlify.app/)**
-- 🎮 Developing **mobile-focused 3D games**
-- 🤖 Creating **AI-powered web applications**
-- 📚 Learning advanced **animation techniques** and **game development**
+## github stats (flex zone)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhobhai943&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=subhobhai943&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhobhai943&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🌟 Featured Projects
-- **Aniverse AI** - Full-stack web app with AI integration
-- **3D Web Game** - Mobile-optimized browser game
-- **Meditation Website** - Smooth GSAP animations
-- **Code Editor** - Web-based development environment
-- **Manga Pages** - English dialogue manga creation
+## random stuff about me
+
+- binge watching aot and tokyo revengers when i should be sleeping
+- bgmi player (not pro, just for fun)
+- shadow fight 2 nostalgia hits different
+- always checking new phone specs even tho i can't afford them 💀
+- night owl mode: 9 am to 1 am study/code sessions
+- music taste: whatever youtube autoplay gives me
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📊 GitHub Stats
+## hit me up
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=subhobhai943&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github" alt="GitHub Stats" />
-    <br/>
-    <img src="https://streak-stats.demolab.com/?user=subhobhai943&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhobhai943&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 📈 GitHub Activity Graph
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhobhai943&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🏆 GitHub Achievements
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=subhobhai943&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <a href="https://subhadip-portofolio.netlify.app/">
+    <img src="https://img.shields.io/badge/portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:sarkarsubhadip604@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="http://www.youtube.com/@SUBtechforge">
+    <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ofc_subhadip?igsh=OGp2Nmlrb29iNm8z">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🎮 Fun Facts
-- 🎌 **Anime Lover:** Currently watching Tokyo Revengers and Attack on Titan
-- 🎮 **Gaming:** BGMI, Shadow Fight 2, 8-bit retro games
-- 📱 **Tech Enthusiast:** Always researching latest smartphone specs
-- 🌙 **Night Owl:** Daily study schedule from 9 AM to 1 AM
-- ✨ **Creative Mind:** Constantly exploring new tech and creative projects
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subhobhai943&color=blueviolet&style=flat-square"/>
+</p>
 
-### 🌐 Connect With Me
-<div align="center">
-    <a href="https://subhadip-portofolio.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-    <a href="mailto:sarkarsubhadip604@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="http://www.youtube.com/@SUBtechforge" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/ofc_subhadip?igsh=OGp2Nmlrb29iNm8z" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <sub>most repos are private btw. dm if you're curious about something</sub>
+</p>
 
-### 🎭 Random Dev Quote
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=subhobhai943&color=blueviolet&style=flat-square&label=Profile+Views" />
-    <br/><br/>
-    <sub>🚀 <strong>"Code is like humor. When you have to explain it, it's bad."</strong> - Cory House</sub>
-</div>
-
-**Note:** Most repos are private - DM me if you have questions! 😊
+<p align="center">
+  <sub>made with actual fingers on a keyboard, not ai (well... mostly)</sub>
+</p>
