@@ -73,7 +73,7 @@ check out my [portfolio](https://subhadip-portofolio.netlify.app/) if you want t
 ## github stats (flex zone)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhobhai943&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gurvex6811&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=guevwx6811&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
