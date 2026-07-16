@@ -66,19 +66,19 @@ honestly just vibing between projects rn. prepping for boards but also can't sto
 - **code editor** - web-based, nothing fancy
 - **manga stuff** - translating/editing panels with english dialogue
 
-check out my [portfolio](https://subhadip-portofolio.netlify.app/) if you want to see more
+check out my [portfolio](http://subhobhai943.xyz/) if you want to see more
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## github stats (flex zone)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurvex6811&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subhobhai943&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=guevwx6811&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurvex6811&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhobhai943&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -105,7 +105,7 @@ check out my [portfolio](https://subhadip-portofolio.netlify.app/) if you want t
 ## hit me up
 
 <p align="center">
-  <a href="https://sub-portfolio.netlify.app/">
+  <a href="http://subhobhai943.xyz/">
     <img src="https://img.shields.io/badge/portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:sarkarsubhadip604@gmail.com">
